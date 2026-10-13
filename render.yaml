@@ -17,5 +17,4 @@ services:
         destination: /index.html
     envVars:
       - key: VITE_FORM_ENDPOINT
-        sync: false
         value: https://formspree.io/f/placeholder
