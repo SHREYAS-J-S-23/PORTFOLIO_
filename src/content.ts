@@ -8,9 +8,9 @@ export const siteConfig = {
   wordmark: { main: 'SHREYAS', accent: 'J S' },
   tagline: 'Building intelligent experiences at the intersection of AI and code.',
   location: { lat: '12.9716° N', lon: '77.5946° E' },
-  email: 'shreyasjs@example.com',
-  github: 'https://github.com/shreyasjs',
-  linkedin: 'https://linkedin.com/in/shreyasjs',
+  email: 'shreyasjs227@gmail.com',
+  github: 'https://github.com/SHREYAS-J-S-23',
+  linkedin: 'https://www.linkedin.com/in/shreyas-js-ab3055330/',
   formEndpoint: import.meta.env.VITE_FORM_ENDPOINT || 'https://formspree.io/f/placeholder',
 };
 
